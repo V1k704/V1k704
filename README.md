@@ -11,18 +11,8 @@ Rain-Tux Creator | Python Dev | Automation Enthusiast<br><br>I'm building Rain-T
 ![](https://github-readme-stats.vercel.app/api?username=V1k704&theme=darcula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=V1k704&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1k704&theme=darcula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=V1k704&theme=aura_dark&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=V1k704&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=V1k704&icon=2&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/V1k704) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/V1k704) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
